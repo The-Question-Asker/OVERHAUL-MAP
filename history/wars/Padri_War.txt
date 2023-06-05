@@ -1,6 +1,6 @@
 name = "Padri War"
 
-1716.1.1 = {
+1.1.1 = {
     add_attacker = NET
     add_defender = ATJ
 
@@ -23,7 +23,7 @@ name = "Padri War"
 
 }
 
-1783.9.3 = {
+2.1.1 = {
     rem_attacker = NET
     rem_defender = ATJ
 }

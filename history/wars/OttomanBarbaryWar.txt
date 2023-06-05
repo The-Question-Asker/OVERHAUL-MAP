@@ -1,6 +1,6 @@
 name = "Ottoman Restoration of Tripoli"
 
-1815.10.2 = {
+1.1.1 = {
     add_attacker = TUR
     add_defender = TRI
 
@@ -23,7 +23,7 @@ name = "Ottoman Restoration of Tripoli"
 
 }
 
-1826.6.6 = {
+2.1.1 = {
     rem_attacker = TUR
     rem_defender = TRI
 }

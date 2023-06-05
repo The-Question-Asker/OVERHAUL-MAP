@@ -1,6 +1,6 @@
 name = "Taiping Rebellion"
 
-1750.1.1 = {
+1.1.1 = {
     add_attacker = TPG
     add_defender = QNG
 
@@ -22,7 +22,7 @@ name = "Taiping Rebellion"
 
 }
 
-1780.6.6 = {
+2.1.1 = {
     rem_attacker = TPG
     rem_attacker = QNG
 }

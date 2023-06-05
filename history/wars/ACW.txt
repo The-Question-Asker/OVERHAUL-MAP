@@ -1,6 +1,6 @@
 #name = "War of Northern Aggression"
 
-1761.4.13 = {
+1.1.1 = {
     add_attacker = USA
     add_defender = CSA
 
@@ -22,7 +22,7 @@
 
 }
 
-1783.9.3 = {
+2.1.1 = {
     rem_attacker = USA
     rem_defender = CSA
 }

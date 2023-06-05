@@ -1,6 +1,6 @@
 name = "Cochinchina Campaign"
 
-1761.4.13 = {
+1.1.1 = {
     add_attacker = FRA
     add_defender = DAI
     add_defender = CAM
@@ -19,7 +19,7 @@ name = "Cochinchina Campaign"
 
 }
 
-1783.9.3 = {
+2.1.1 = {
     rem_attacker = FRA
     rem_defender = DAI
     rem_defender = CAM

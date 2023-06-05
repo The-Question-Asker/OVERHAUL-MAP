@@ -1,6 +1,6 @@
 name = "Anglo-Ashanti War"
 
-1823.4.19 = {
+1.1.1 = {
     add_attacker = ENG
     add_defender = ASH
 
@@ -18,7 +18,7 @@ name = "Anglo-Ashanti War"
 
 }
 
-1831.9.3 = {
+2.1.1 = {
     rem_attacker = ENG
     rem_defender = ASH
 }

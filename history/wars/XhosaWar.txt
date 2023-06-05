@@ -1,6 +1,6 @@
 name = "Sixth Xhosa War"
 
-1815.10.2 = {
+1.1.1 = {
     add_attacker = ENG
     add_defender = XHO
 
@@ -23,7 +23,7 @@ name = "Sixth Xhosa War"
 
 }
 
-1826.6.6 = {
+2.1.1 = {
     rem_attacker = ENG
     rem_defender = XHO
 }

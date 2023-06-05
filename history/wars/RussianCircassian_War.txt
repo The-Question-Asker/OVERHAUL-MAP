@@ -1,6 +1,6 @@
 name = "Russian-Circassian War"
 
-1815.10.2 = {
+1.1.1 = {
     add_attacker = RUS
     add_defender = CIR
 
@@ -23,7 +23,7 @@ name = "Russian-Circassian War"
 
 }
 
-1826.6.6 = {
+2.1.1 = {
     rem_attacker = RUS
     rem_attacker = CIR
 }
